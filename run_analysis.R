@@ -13,6 +13,7 @@ test.subject.path=paste(github,"test/subject_test.txt",sep="")
 activitylabels=paste(github,"activity_labels.txt",sep="")
 
 featurespath=paste(github,"features.txt",sep="")
+
 #--------------------------------------------------------------------------
 
 train.data=read.table(trainpath)
@@ -27,6 +28,7 @@ activity.label=read.table(activitylabels,col.names=c("activity","activity.name")
 data=rbind(train.data,test.data)
 labels=rbind(train.label,test.label)
 subjects=rbind(train.subject,test.subject)
+
 #---------------------------------------------------------
 
 
