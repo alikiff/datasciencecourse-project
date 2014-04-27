@@ -19,5 +19,7 @@ https://raw.githubusercontent.com/alikiff/datasciencecourse-project/master/readm
  https://github.com/alikiff/datasciencecourse-project/blob/master/readme.md
 
 * The final dataset is comma-separated and can be found here:
- https://github.com/alikiff/datasciencecourse-project/blob/master/FinalTidyData.txt
- Note, that the variables in the dataset are already explained through the original ReadMe-File with one important    difference: In the final dataset we are observing the means over all the observations in the original dataset.
+ https://github.com/alikiff/datasciencecourse-project/blob/master/FinalTidyAverageData.txt
+
+ Note, that the names of the variables in the dataset are already explained through the original ReadMe-File with one important difference in meanings: In the final dataset we are observing the averages over all the observations in the original dataset. So consequently the variables, either in the original or in the final dataset, should have been renamed,
+but hey, why should I then write a CodeBook :-) !?
