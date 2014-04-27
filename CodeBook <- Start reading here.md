@@ -15,8 +15,8 @@ https://raw.githubusercontent.com/alikiff/datasciencecourse-project/master/readm
 
 
 * The markdown file, which explains the computational steps in R, which were needed to transform the original data
-  to the final, tidy and summarized data can be found here:
- https://github.com/alikiff/datasciencecourse-project/blob/master/readme.md
+  to the final, tidy and summarized data can be found here
+ https://github.com/alikiff/datasciencecourse-project/blob/master/readme.md and the corresponding R-Script can be found here https://github.com/alikiff/datasciencecourse-project/blob/master/run_analysis.R
 
 * The final dataset is comma-separated and can be found here:
  https://github.com/alikiff/datasciencecourse-project/blob/master/FinalTidyAverageData.txt
