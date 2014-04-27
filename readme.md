@@ -74,8 +74,6 @@ data.mean.std=data[,mean.std.features]
 
 ### Creating the complete tidy data set
 ```
-subject=data.frame(subject=unlist(c(train.subject,rep(NA,2947))))
-
 data.final=cbind(data.mean.std,labels,subjects)
 data.final=merge(data.final,activity.label,by="activity",sort=FALSE)
 ```
@@ -91,5 +89,4 @@ Finally we substitute the numerical activity codes with the activity labels foun
 data.final.kum=ddply(data.final,.(subject,activity,activity.name),numcolwise(mean))
 ```
 At the very end we are summarizing over all subject-activity combinations
-and taking the averages over all the numeric measurement variables. Thats how we create the final, tidy dataset
-
+and taking the averages over all the numeric measurement variables. Thats how we create the final, tidy dataset.
