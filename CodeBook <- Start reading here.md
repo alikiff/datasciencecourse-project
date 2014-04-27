@@ -2,9 +2,9 @@ CodeBook for the "Getting and Cleaning Data" Coursera Project
 ========================================================================
 
 * The original data can be found here
-https://github.com/alikiff/datasciencecourse-project/tree/master/datasets
-or alternativlely in my github folder here
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+or alternativlely in my github folder here
+https://github.com/alikiff/datasciencecourse-project/tree/master/datasets
 
 * The source of the data, with some informations, how it was collected and wherefore, can be found here:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
