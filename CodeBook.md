@@ -14,3 +14,7 @@ https://raw.githubusercontent.com/alikiff/datasciencecourse-project/master/readm
 * The markdown file, which explains the computational steps in R, which were needed to transform the original data
   to the final, tidy and summarized data can be found here:
  https://github.com/alikiff/datasciencecourse-project/blob/master/readme.md
+
+* The final dataset is comma-separated and can be found here:
+ https://github.com/alikiff/datasciencecourse-project/blob/master/FinalTidyData.txt
+ Note, that the variables in the dataset are already explained through the original ReadMe-File with one important    difference: In the final dataset we are observing the means over all the observations in the original dataset
