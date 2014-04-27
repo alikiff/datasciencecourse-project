@@ -13,4 +13,4 @@ https://raw.githubusercontent.com/alikiff/datasciencecourse-project/master/readm
 
 * The markdown file, which explains the computational steps in R, which were needed to transform the original data
   to the final, tidy and summarized data can be found here:
-  https://raw.githubusercontent.com/alikiff/datasciencecourse-project/master/readme.md
+ https://github.com/alikiff/datasciencecourse-project/blob/master/readme.md
