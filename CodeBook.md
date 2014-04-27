@@ -1,3 +1,6 @@
+CodeBook for the "Getting and Cleaning Data" Coursera Project
+========================================================================
+
 * The original data can be found here
 https://github.com/alikiff/datasciencecourse-project/tree/master/datasets
 or alternativlely in my github folder here
@@ -17,4 +20,4 @@ https://raw.githubusercontent.com/alikiff/datasciencecourse-project/master/readm
 
 * The final dataset is comma-separated and can be found here:
  https://github.com/alikiff/datasciencecourse-project/blob/master/FinalTidyData.txt
- Note, that the variables in the dataset are already explained through the original ReadMe-File with one important    difference: In the final dataset we are observing the means over all the observations in the original dataset
+ Note, that the variables in the dataset are already explained through the original ReadMe-File with one important    difference: In the final dataset we are observing the means over all the observations in the original dataset.
